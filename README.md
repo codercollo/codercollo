@@ -1,2 +1,6 @@
-CoderCollo / Collins 
-🚀 Golang enthusiast | 🐹 Gopher | Building clean, efficient code one function at a time
+CoderCollo / Collins Maina
+Backend Golang Developer
+🚀 Golang 
+👌 React.js
+
+I value commitment and hardwork
