@@ -15,15 +15,5 @@ Specializing in **Golang**, **API solutions**, & **React.js**
   <img src="https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
----
-
-## 🌟 Projects
-
-<p align="center">
-  <a href="https://github.com/username/project1"><img src="https://img.shields.io/badge/Project1-Golang-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/username/project2"><img src="https://img.shields.io/badge/Project2-React-green?style=for-the-badge"/></a>
-</p>
-
----
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
