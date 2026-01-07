@@ -1,6 +1,6 @@
 # 🚀 Collins' GitHub
  
-Specializing in **Golang**, **API solutions**, & **React.js**
+![Bishop 2012 TMNT](https://static.wikia.nocookie.net/tmnt/images/6/66/Bishop_2012.png)  
 
 ---
 
