@@ -1,6 +1,6 @@
-# 🚀 Collins' GitHub
- 
-![Bishop 2012 TMNT](https://static.wikia.nocookie.net/tmnt/images/6/66/Bishop_2012.png)  
+# Collins  
+![Bishop 2012](https://raw.githubusercontent.com/username/repo/main/bishop2012.png)
+
 
 ---
 
