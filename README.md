@@ -1,4 +1,4 @@
-# 👋 Collins (Bishop 🐢)
+# Collins
 
 ---
 
@@ -13,6 +13,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://c.tenor.com/6m1fJupkU7MAAAAC/bishop-tmnt.gif" alt="Bishop 2012 TMNT" width="250"/>
-</p>
