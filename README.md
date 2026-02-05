@@ -1,21 +1,30 @@
-<div style="display: flex; align-items: center; gap: 1.5rem;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; 
+            background: #0a0a0a; color: #00FF00; padding: 2rem; border-radius: 8px; 
+            border: 1px solid #00FF00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); 
+            max-width: 600px; font-family: 'Consolas', 'Monaco', monospace;">
 
-<!-- Left side: your details -->
-<div>
-  <h3 font-family = " Consolas, Monaco, 'Lucida Console', 'Courier New', monospace"      line-height = "1.5" color = "#00FF00" font-size = "16px">Collins'</h3> 
-  <span>page</span>
+  <!-- Left side: Details -->
+  <div style="flex: 1;">
+    <h3 style="margin: 0; font-size: 24px; text-transform: uppercase; letter-spacing: 2px; 
+               text-shadow: 0 0 8px #00FF00;">
+      Collins' <span style="color: #fff; font-size: 14px; vertical-align: middle;">page</span>
+    </h3>
+    
+    <p style="margin-top: 10px; color: #00cc00; font-size: 14px; border-left: 2px solid #00FF00; padding-left: 10px;">
+      > STATUS: Online<br>
+      > ROLE: Go Developer & Enthusiast<br>
+      > CLEARANCE: Level 4
+    </p>
+  </div>
 
-  Go Developer & Enthusiast 
-</div>
-
-<!-- Right side: Agent Bishop image -->
-<div>
-  <img 
-    src="./assets/Bishop(tmnt2012)-038.webp" 
-    alt="Agent Bishop (TMNT 2012)" 
-    width="200"
-    style="border-radius: 12px; border: 2px solid #4A4A4A;"
-  >
-</div>
+  <!-- Right side: Agent Bishop image -->
+  <div style="flex-shrink: 0;">
+    <img 
+      src="./assets/Bishop(tmnt2012)-038.webp" 
+      alt="Agent Bishop (TMNT 2012)" 
+      width="180"
+      style="border: 2px solid #00FF00; border-radius: 4px; filter: grayscale(50%) contrast(120%);"
+    >
+  </div>
 
 </div>
