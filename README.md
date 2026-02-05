@@ -2,10 +2,10 @@
 
 <!-- Left side: your details -->
 <div>
-  # 👋 Hi, I'm Collins
+  <h3 font-family = " Consolas, Monaco, 'Lucida Console', 'Courier New', monospace"      line-height = "1.5" color = "#00FF00" font-size = "16px">Collins'</h3> 
+  <span>page</span>
 
-  🛡️ **TMNT fan** | 🕵️‍♂️ **Agent Bishop vibes**  
-  💻 **Go Developer & Enthusiast** | Always coding, always learning  
+  Go Developer & Enthusiast 
 </div>
 
 <!-- Right side: Agent Bishop image -->
