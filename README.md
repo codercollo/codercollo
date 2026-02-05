@@ -10,10 +10,9 @@
       Collins' <span style="color: #fff; font-size: 14px; vertical-align: middle;">page</span>
     </h3>
     
-    <p style="margin-top: 10px; color: #00cc00; font-size: 14px; border-left: 2px solid #00FF00; padding-left: 10px;">
-      > STATUS: Online<br>
+    <p >
+      > STATUS: Online
       > ROLE: Go Developer & Enthusiast<br>
-      > CLEARANCE: Level 4
     </p>
   </div>
 
