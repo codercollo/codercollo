@@ -12,8 +12,8 @@
     
 <p>
   > Online | Backend Developer<br>
-  > Go (Primary) • Python (Django)<br>
-  > Proud Gopher
+  > Go      •        Python <br>
+            Gopher
 </p>
 
   </div>
