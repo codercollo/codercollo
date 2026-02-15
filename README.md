@@ -10,10 +10,12 @@
       Collins' <span style="color: #fff; font-size: 14px; vertical-align: middle;">page</span>
     </h3>
     
-    <p >
-      > STATUS: Online
-      > ROLE: Go Developer & Enthusiast<br>
-    </p>
+<p>
+  > Online | Backend Developer<br>
+  > Go (Primary) • Python (Django)<br>
+  > Proud Gopher
+</p>
+
   </div>
 
   <!-- Right side: Agent Bishop image -->
