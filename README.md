@@ -12,8 +12,8 @@
     
 <p>
   > Online | Backend Developer<br>
-  > Go      •        Python <br>
-            Gopher
+  >        Go      <br>
+          Gopher
 </p>
 
   </div>
