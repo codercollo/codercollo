@@ -11,8 +11,8 @@
     </h3>
     
 <p>
-  > Online | Backend Developer<br>
-  >        Go      <br>
+
+  |        Go      |<br>
           Gopher
 </p>
 
