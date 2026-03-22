@@ -18,14 +18,5 @@
 
   </div>
 
-  <!-- Right side: Agent Bishop image -->
-  <div style="flex-shrink: 0;">
-    <img 
-      src="./assets/Bishop(tmnt2012)-038.webp" 
-      alt="Agent Bishop (TMNT 2012)" 
-      width="180"
-      style="border: 2px solid #00FF00; border-radius: 4px; filter: grayscale(50%) contrast(120%);"
-    >
-  </div>
 
 </div>
