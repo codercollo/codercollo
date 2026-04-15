@@ -1,57 +1,33 @@
-<svg viewBox="0 0 520 300" xmlns="http://www.w3.org/2000/svg" width="520" height="300">
+<svg viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" width="480" height="260">
   <style>
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-    text { font-family: 'Courier New', monospace; fill: #00ff00; }
-    .dim { fill: #555; }
-    .white { fill: #fff; }
-    .label { fill: #444; }
-    .dot { animation: blink 1s step-end infinite; }
+    text { font-family: 'Courier New', monospace; fill: #c9c9c9; font-size: 12px; }
+    .mute { fill: #555; }
+    .head { fill: #fff; font-size: 13px; }
+    .tag  { fill: #888; font-size: 11px; }
   </style>
 
-  <rect width="520" height="300" fill="#0a0a0a" rx="4"/>
-  <rect width="520" height="1" y="0" fill="#00ff00" opacity="0.4"/>
-  <line x1="20" y1="70" x2="500" y2="70" stroke="#00ff00" stroke-dasharray="4,4" stroke-width="0.8"/>
+  <rect width="480" height="260" fill="#111"/>
+  <line x1="0" y1="0"   x2="480" y2="0"   stroke="#333" stroke-width="1"/>
+  <line x1="0" y1="259" x2="480" y2="259" stroke="#333" stroke-width="1"/>
 
-  <text x="30" y="32" font-size="11">(\(\</text>
-  <text x="30" y="46">( -.-)</text>
-  <text x="68" y="46" font-size="10" class="dim">&lt;-- this is me</text>
-  <text x="30" y="60" font-size="11">o_(")(") </text>
+  <text x="20" y="30" class="mute">(\(\</text>
+  <text x="20" y="46" class="mute">( -.-)  // codercollo</text>
+  <text x="20" y="62" class="mute">o_(")(") gopher</text>
 
-  <text x="260" y="38" font-size="18" letter-spacing="6" text-anchor="middle">COLLINS</text>
-  <text x="260" y="56" font-size="10" class="dim" text-anchor="middle">gopher · backend guy · occasional vue toucher</text>
+  <line x1="0" y1="74" x2="480" y2="74" stroke="#2a2a2a" stroke-width="1"/>
 
-  <text x="30" y="92" font-size="11">&gt; </text>
-  <text x="46" y="92" font-size="11" class="white">MY STACK</text>
+  <text x="20" y="96"  class="head">COLLINS</text>
+  <text x="20" y="112" class="tag">backend dev. nairobi. he/him.</text>
 
-  <text x="30" y="115" font-size="11" class="dim">lang</text>
-  <text x="130" y="115" font-size="11">Go (Golang)</text>
-  <rect x="300" y="103" width="80" height="16" fill="#00ff00" rx="2"/>
-  <text x="340" y="115" font-size="10" fill="#000" text-anchor="middle">★ PRIMARY</text>
+  <line x1="0" y1="124" x2="480" y2="124" stroke="#2a2a2a" stroke-width="1"/>
 
-  <text x="30" y="138" font-size="11" class="dim">framework</text>
-  <text x="130" y="138" font-size="11">Gin / Chi / stdlib</text>
-  <text x="300" y="138" font-size="10" class="dim">backend</text>
+  <text x="20" y="144" class="mute">lang     </text><text x="110" y="144">Go (Golang)        [main]</text>
+  <text x="20" y="160" class="mute">web      </text><text x="110" y="160">Gin / Chi / net/http</text>
+  <text x="20" y="176" class="mute">frontend </text><text x="110" y="176" class="mute">Vue.js             [reluctantly]</text>
+  <text x="20" y="192" class="mute">css      </text><text x="110" y="192" class="mute">Tailwind</text>
+  <text x="20" y="208" class="mute">tooling  </text><text x="110" y="208" class="mute">gopls. always gopls.</text>
 
-  <text x="30" y="161" font-size="11" class="dim">frontend</text>
-  <text x="130" y="161" font-size="11" class="dim">Vue.js</text>
-  <text x="300" y="161" font-size="10" class="label">when forced to</text>
+  <line x1="0" y1="220" x2="480" y2="220" stroke="#2a2a2a" stroke-width="1"/>
 
-  <text x="30" y="184" font-size="11" class="dim">css</text>
-  <text x="130" y="184" font-size="11" class="dim">Tailwind</text>
-  <text x="300" y="184" font-size="10" class="label">it works ok</text>
-
-  <text x="30" y="207" font-size="11" class="dim">editor</text>
-  <text x="130" y="207" font-size="11" class="dim">whatever runs gopls</text>
-
-  <line x1="20" y1="220" x2="500" y2="220" stroke="#222" stroke-dasharray="4,4" stroke-width="0.8"/>
-
-  <text x="30" y="240" font-size="10" class="dim">BEST VIEWED IN: any browser</text>
-  <text x="30" y="254" font-size="10" class="dim">OPTIMIZED FOR: writing go code</text>
-
-  <circle cx="410" cy="236" r="4" fill="#00ff00" class="dot"/>
-  <text x="420" y="240" font-size="10">ONLINE</text>
-  <text x="410" y="254" font-size="10" class="dim">visitors: 1337</text>
-
-  <line x1="20" y1="266" x2="500" y2="266" stroke="#111" stroke-width="0.8"/>
-  <text x="260" y="284" font-size="10" class="label" text-anchor="middle">~ made with go. the frontend was not my idea. ~</text>
+  <text x="20" y="240" class="mute">est. 2024 -- made with go -- the vue was not my idea</text>
 </svg>

@@ -1,1 +1,1 @@
-![Collins Dev Card](./card.svg)
+![](./card.svg)
