@@ -10,11 +10,8 @@
   <line x1="0" y1="0"   x2="480" y2="0"   stroke="#333" stroke-width="1"/>
   <line x1="0" y1="259" x2="480" y2="259" stroke="#333" stroke-width="1"/>
 
-  <text x="20" y="30" class="mute">(\(\</text>
-  <text x="20" y="46" class="mute">( -.-)  // codercollo</text>
-  <text x="20" y="62" class="mute">o_(")(") gopher</text>
-
   <line x1="0" y1="74" x2="480" y2="74" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="20" y="62" class="mute">o_(")(") gopher</text>
 
   <text x="20" y="96"  class="head">COLLINS</text>
   <text x="20" y="112" class="tag">backend dev. nairobi. he/him.</text>
@@ -23,11 +20,12 @@
 
   <text x="20" y="144" class="mute">lang     </text><text x="110" y="144">Go (Golang)        [main]</text>
   <text x="20" y="160" class="mute">web      </text><text x="110" y="160">Gin / Chi / net/http</text>
-  <text x="20" y="176" class="mute">frontend </text><text x="110" y="176" class="mute">Vue.js             [reluctantly]</text>
+  <text x="20" y="160" class="mute">stack      </text><text x="110" y="160">Postgres / Redis / Docker</text>
+  <text x="20" y="176" class="mute">frontend </text><text x="110" y="176" class="mute">Vue.js</text>
   <text x="20" y="192" class="mute">css      </text><text x="110" y="192" class="mute">Tailwind</text>
   <text x="20" y="208" class="mute">tooling  </text><text x="110" y="208" class="mute">gopls. always gopls.</text>
 
   <line x1="0" y1="220" x2="480" y2="220" stroke="#2a2a2a" stroke-width="1"/>
 
-  <text x="20" y="240" class="mute">est. 2024 -- made with go -- the vue was not my idea</text>
+  <text x="20" y="240" class="mute">est. 2023 -- made with go -- the vue was not my idea</text>
 </svg>
