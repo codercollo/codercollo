@@ -1,31 +1,35 @@
-<svg viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" width="480" height="260">
+<svg viewBox="0 0 480 280" xmlns="http://www.w3.org/2000/svg" width="480" height="280">
   <style>
     text { font-family: 'Courier New', monospace; fill: #c9c9c9; font-size: 12px; }
     .mute { fill: #555; }
-    .head { fill: #fff; font-size: 13px; }
-    .tag  { fill: #888; font-size: 11px; }
+    .head { fill: #fff; font-size: 14px; letter-spacing: 2px; }
+    .sub  { fill: #666; font-size: 11px; }
+    .key  { fill: #555; }
+    .val  { fill: #aaa; }
+    .dim  { fill: #333; font-size: 11px; }
   </style>
 
-  <rect width="480" height="260" fill="#111"/>
-  <line x1="0" y1="0"   x2="480" y2="0"   stroke="#333" stroke-width="1"/>
-  <line x1="0" y1="259" x2="480" y2="259" stroke="#333" stroke-width="1"/>
+  <rect width="480" height="280" fill="#0d0d0d"/>
+  <line x1="0" y1="0"   x2="480" y2="0"   stroke="#2a2a2a" stroke-width="1"/>
+  <line x1="0" y1="279" x2="480" y2="279" stroke="#2a2a2a" stroke-width="1"/>
 
-  <line x1="0" y1="74" x2="480" y2="74" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="20" y="62" class="mute">o_(")(") gopher</text>
+  <text x="20" y="36" class="head">COLLINS</text>
+  <text x="20" y="54" class="sub">backend engineer  //  nairobi, ke  //  he/him</text>
 
-  <text x="20" y="96"  class="head">COLLINS</text>
-  <text x="20" y="112" class="tag">backend dev. nairobi. he/him.</text>
+  <line x1="0" y1="66" x2="480" y2="66" stroke="#1e1e1e" stroke-width="1"/>
 
-  <line x1="0" y1="124" x2="480" y2="124" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="20" y="88"  class="key">lang       </text><text x="130" y="88"  class="val">Go</text>
+  <text x="20" y="106" class="key">frameworks </text><text x="130" y="106" class="val">Gin  /  Chi  /  net/http</text>
+  <text x="20" y="124" class="key">data       </text><text x="130" y="124" class="val">Postgres  /  Redis  /  Docker</text>
+  <text x="20" y="142" class="key">frontend   </text><text x="130" y="142" class="mute">Vue.js</text>
+  <text x="20" y="160" class="key">css        </text><text x="130" y="160" class="mute">Tailwind</text>
+  <text x="20" y="178" class="key">tooling    </text><text x="130" y="178" class="mute">gopls.  always gopls.</text>
 
-  <text x="20" y="144" class="mute">lang     </text><text x="110" y="144">Go (Golang)        [main]</text>
-  <text x="20" y="160" class="mute">web      </text><text x="110" y="160">Gin / Chi / net/http</text>
-  <text x="20" y="160" class="mute">stack      </text><text x="110" y="160">Postgres / Redis / Docker</text>
-  <text x="20" y="176" class="mute">frontend </text><text x="110" y="176" class="mute">Vue.js</text>
-  <text x="20" y="192" class="mute">css      </text><text x="110" y="192" class="mute">Tailwind</text>
-  <text x="20" y="208" class="mute">tooling  </text><text x="110" y="208" class="mute">gopls. always gopls.</text>
+  <line x1="0" y1="192" x2="480" y2="192" stroke="#1e1e1e" stroke-width="1"/>
 
-  <line x1="0" y1="220" x2="480" y2="220" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="20" y="212" class="sub">focus    //    api design  /  backend architecture</text>
 
-  <text x="20" y="240" class="mute">est. 2023 -- made with go -- the vue was not my idea</text>
+  <line x1="0" y1="242" x2="480" y2="242" stroke="#1e1e1e" stroke-width="1"/>
+
+  <text x="20" y="262" class="dim">est. 2023  --  written in go  --  the vue was not my idea</text>
 </svg>
