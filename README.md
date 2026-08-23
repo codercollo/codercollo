@@ -1,10 +1,8 @@
-codercollo
-
 Hey, Collins here.  
 
-backend dev
+Backend (•_•)
 
-go • grpc • postgres • redis • nuxt • vue
+go • • postgres • redis • nuxt4 • vue3 • event-stream
 
 
 
