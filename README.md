@@ -2,7 +2,7 @@ Hey, Collins here.
 
 Backend (•_•)
 
-go • • postgres • redis • nuxt4 • vue3 • event-stream
+•Golang • Nuxt4/Vue3 • event-stream
 
 
 
