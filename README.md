@@ -1,9 +1,10 @@
 Hey, Collins here.  
 
 Backend (•_•)
-
 • Golang 
 
-Works on my machine! (‾◡◝)
+Frontend
+• Nuxt4 (Vue3)
 
-
+DB
+• Postgres 
