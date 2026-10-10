@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="170" viewBox="0 0 380 170">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; fill: #00ADD8; white-space: pre; }
+    .say { fill: #8b949e; }
+    .f1 { animation: a 3s infinite; }
+    .f2 { animation: b 3s infinite; opacity: 0; }
+    .f3 { animation: c 3s infinite; opacity: 0; }
+    @keyframes a { 0%, 59.9% { opacity: 1 } 60%, 100% { opacity: 0 } }
+    @keyframes b { 0%, 59.9% { opacity: 0 } 60%, 69.9% { opacity: 1 } 70%, 100% { opacity: 0 } }
+    @keyframes c { 0%, 69.9% { opacity: 0 } 70%, 100% { opacity: 1 } }
+  </style>
+
+  <!-- frame 1: idle -->
+  <g class="f1" xml:space="preserve">
+    <text x="10" y="20">   ,_         _,</text>
+    <text x="10" y="37">  (  `-------'  )</text>
+    <text x="10" y="54">  /   (o) (o)   \</text>
+    <text x="10" y="71"> |       ^       |</text>
+    <text x="10" y="88"> |     [_|_]     |</text>
+    <text x="10" y="105">  \             /</text>
+    <text x="10" y="122">   `-----------'</text>
+    <text x="10" y="139">    ||       ||</text>
+  </g>
+
+  <!-- frame 2: blink -->
+  <g class="f2" xml:space="preserve">
+    <text x="10" y="20">   ,_         _,</text>
+    <text x="10" y="37">  (  `-------'  )</text>
+    <text x="10" y="54">  /   (-) (-)   \</text>
+    <text x="10" y="71"> |       ^       |</text>
+    <text x="10" y="88"> |     [_|_]     |</text>
+    <text x="10" y="105">  \             /</text>
+    <text x="10" y="122">   `-----------'</text>
+    <text x="10" y="139">    ||       ||</text>
+  </g>
+
+  <!-- frame 3: wave + talk -->
+  <g class="f3" xml:space="preserve">
+    <text x="10" y="20">   ,_         _,   \o</text>
+    <text x="10" y="37">  (  `-------'  )  /</text>
+    <text x="10" y="54">  /   (^) (^)   \/</text>
+    <text x="10" y="71"> |       ^       |</text>
+    <text x="10" y="88"> |     [_|_]     |</text>
+    <text x="10" y="105">  \             /</text>
+    <text x="10" y="122">   `-----------'</text>
+    <text x="10" y="139">    ||       ||</text>
+    <text class="say" x="205" y="71">if err != nil {</text>
+    <text class="say" x="205" y="88">    return err</text>
+    <text class="say" x="205" y="105">}</text>
+  </g>
+</svg>
